@@ -19,7 +19,7 @@ Interfaz de Usuario Ingestible: Construir una interfaz gráfica de usuario intui
 
 Gestión de Calidad y Versiones: Evidenciar un flujo de trabajo colaborativo y progresivo utilizando GitHub, aplicando buenas prácticas de ramificación (branching), resolución de conflictos y documentación continua.
 
-## Arquitectura Detallada del Sistema: Análisis Macroeconómico del Euro
+## 3. Arquitectura Detallada del Sistema: Análisis Macroeconómico del Euro
 
 El diseño arquitectónico de la aplicación sigue un enfoque de Capas Desacopladas (Decoupled Layered Architecture). Esta separación lógica garantiza la modularidad, la fácil detección de errores (debugging) y la escalabilidad de las funcionalidades analíticas sin comprometer el rendimiento de la interfaz gráfica de usuario. 
 El flujo de datos opera de manera unidireccional, transformando datos macroeconómicos crudos de la eurozona en métricas financieras procesadas e interactivas.
